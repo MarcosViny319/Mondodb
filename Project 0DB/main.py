@@ -89,8 +89,6 @@ try:
     if not encontrou:
         print("Nenhum produto encontrado pelo nome.")
     
-    
-    # FILTRAR - Por faixa de preco
     print("\n--- FILTRAR POR PRECO ---")
 
     preco_minimo = float(input("Digite o preco minimo: "))
